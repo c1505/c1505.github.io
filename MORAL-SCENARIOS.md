@@ -1,6 +1,6 @@
 layout: page
 title: "Why are language models so bad at MMLU’s Moral Scenarios Task?"
-permalink: /POSTS/MORAL-SCENARIOS/
+permalink: /posts/moral-scenarios
 
 
 
